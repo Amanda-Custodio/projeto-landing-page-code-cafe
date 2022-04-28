@@ -10,6 +10,7 @@ body{
 
 .cabecalho{
     padding: 30px 15px;
+    position: relative;
 }
 
 .cabecalho .logo{
